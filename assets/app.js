@@ -1,3 +1,4 @@
+ //fix?
  var giphys = ['Cats', 'Dogs', 'Birds'];
 
   function displayGiphy() {
